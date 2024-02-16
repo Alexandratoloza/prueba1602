@@ -1,5 +1,13 @@
 body{
-    font-family: "Protest Riot", sans-serif;
+    font-family: "Fredoka", sans-serif;
     background-color: black;
     color: white;
+
+}
+.main{
+    style: inline-block;
+}
+
+.card{
+    background-color: black;
 }
